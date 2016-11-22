@@ -24,10 +24,10 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\GemSDK-Win-0.0.2-BETA\include\Common.h">
+    <ClInclude Include="include\Common.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\GemSDK-Win-0.0.2-BETA\include\GemAPI.h">
+    <ClInclude Include="include\GemAPI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

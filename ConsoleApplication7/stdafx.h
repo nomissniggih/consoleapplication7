@@ -10,9 +10,9 @@
 #include <stdio.h>
 #include <tchar.h>
 #include <iostream>
-#include "C:\Users\simon\Documents\GemSDK-Win-0.0.2-BETA\include\GemAPI.h"
+#include "include\GemAPI.h"
 #include <stdlib.h>
-#include <Windows.h>
+
 
 using namespace std;
 

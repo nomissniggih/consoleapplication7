@@ -55,11 +55,11 @@ int main()
 
 	gemInitialize();
 
-	gemOnStateChanged gs = &StateChanged;
+	/*gemOnStateChanged gs = &StateChanged;
 	gemSetOnStateChanged(mystr, gs);
 
 	gemOnCombinedData gc = &OnCombinedDataEventHandler;
-	gemSetOnCombinedData(mystr, gc);
+	gemSetOnCombinedData(mystr, gc);*/
 
 	status = gemConnect(mystr);
 

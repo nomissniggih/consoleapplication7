@@ -1,7 +1,8 @@
-﻿ConsoleApplication7.obj : error LNK2019: unresolved external symbol __imp__gemInitialize referenced in function _main
+﻿  ConsoleApplication7.cpp
+ConsoleApplication7.obj : error LNK2019: unresolved external symbol __imp__gemInitialize referenced in function _main
 ConsoleApplication7.obj : error LNK2019: unresolved external symbol __imp__gemConnect referenced in function _main
 ConsoleApplication7.obj : error LNK2019: unresolved external symbol __imp__gemDisconnect referenced in function _main
 ConsoleApplication7.obj : error LNK2019: unresolved external symbol __imp__gemGetDescriptionListCount referenced in function "void __cdecl `dynamic initializer for 'num''(void)" (??__Enum@@YAXXZ)
 ConsoleApplication7.obj : error LNK2019: unresolved external symbol __imp__gemGetDescriptionList referenced in function "void __cdecl StateChanged(unsigned int)" (?StateChanged@@YAXI@Z)
 ConsoleApplication7.obj : error LNK2019: unresolved external symbol __imp__gemGetInfo referenced in function "void __cdecl StateChanged(unsigned int)" (?StateChanged@@YAXI@Z)
-c:\users\simon\documents\visual studio 2015\Projects\ConsoleApplication7\Debug\ConsoleApplication7.exe : fatal error LNK1120: 6 unresolved externals
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication7\Debug\ConsoleApplication7.exe : fatal error LNK1120: 6 unresolved externals
