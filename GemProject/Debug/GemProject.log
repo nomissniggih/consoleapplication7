@@ -1,6 +1,0 @@
-﻿  stdafx.cpp
-  GemProject.cpp
-GemProject.obj : error LNK2019: unresolved external symbol __imp__gemInitialize referenced in function _main
-GemProject.obj : error LNK2019: unresolved external symbol __imp__gemConnect referenced in function _main
-GemProject.obj : error LNK2019: unresolved external symbol __imp__gemSetOnCombinedData referenced in function _main
-D:\Documents\Visual Studio 2015\Projects\GemProject\Debug\GemProject.exe : fatal error LNK1120: 3 unresolved externals
